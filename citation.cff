@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Leach
+    given-names: Sven
+    orcid: https://orcid.org/0000-0001-7425-4589
+title: "Scoring Hero"
+version: 0.0.5
+date-released: 2023-11-16
